@@ -26,7 +26,7 @@ cd paperjs-sounds
 
 Open 
 ```
-circles.html file and press a keyboard 
+circles.html file and start pressing any keyboard 
 * don't forget to volume up to hear the keyboard sounds
 ```
 
