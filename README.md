@@ -2,6 +2,9 @@
 
 Music project example using paperjs and howlerjs framework to create some cool music simple app.
 
+![Untitled](https://user-images.githubusercontent.com/38250310/61589276-f1843a00-abd1-11e9-8094-31365f3d6161.png)
+
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
