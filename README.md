@@ -44,4 +44,4 @@ cd paperjs-sounds
 * [Paperjs](http://paperjs.org/) => UI
 * [Howlerjs](https://howlerjs.com/) => Sounds
 
-If you have any suggestions or found some debug, feel free to contact me.
+If you have any suggestions or found a bug, feel free to contact me.
